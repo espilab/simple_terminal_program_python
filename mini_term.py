@@ -60,4 +60,4 @@ if __name__ == '__main__':
     run_flag = send_kd_data()
 
 
-ser.close()
+  ser.close()
